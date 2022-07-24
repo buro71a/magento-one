@@ -5,7 +5,7 @@
     "OSL-3.0",
     "AFL-3.0"
   ],
-  "type" :        "magento-source",
+  "type" :        "magento-core",
   "require" :     {
     "php" :                                          ">=7.0 <7.5 || >=8.0 <8.1",
     "ext-curl" :                                     "*",
